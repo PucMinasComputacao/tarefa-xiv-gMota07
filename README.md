@@ -32,8 +32,8 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Gabriel Mota Valério
+- Matricula: 918995
 
 ## Prints do trabalho
 
