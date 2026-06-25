@@ -1,0 +1,11 @@
+{
+  "name": "auto-seminovos",
+  "version": "1.0.0",
+  "description": "Catálogo de carros seminovos com Home, página de detalhes (QueryString) e JSON Server como backend.",
+  "scripts": {
+    "start": "json-server --watch db.json --static public --port 3000"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}
